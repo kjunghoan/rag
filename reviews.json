@@ -1,0 +1,124 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "subject": "Biology",
+      "stars": 4,
+      "review": "Dr. Johnson's lectures are engaging and well-structured. She explains complex concepts clearly."
+    },
+    {
+      "professor": "Prof. Michael Lee",
+      "subject": "Computer Science",
+      "stars": 5,
+      "review": "Fantastic professor! Prof. Lee's passion for coding is contagious. His projects are challenging but rewarding."
+    },
+    {
+      "professor": "Dr. Sarah Martinez",
+      "subject": "Psychology",
+      "stars": 3,
+      "review": "Dr. Martinez knows her subject well, but sometimes struggles to keep the class engaged."
+    },
+    {
+      "professor": "Prof. David Wilson",
+      "subject": "History",
+      "stars": 4,
+      "review": "Prof. Wilson brings history to life with his storytelling. His exams are tough but fair."
+    },
+    {
+      "professor": "Dr. Lisa Chen",
+      "subject": "Chemistry",
+      "stars": 5,
+      "review": "Dr. Chen is an amazing educator. Her lab sessions are well-organized and informative."
+    },
+    {
+      "professor": "Prof. Robert Brown",
+      "subject": "Mathematics",
+      "stars": 2,
+      "review": "Prof. Brown's teaching style is too fast-paced. It's hard to keep up with the material."
+    },
+    {
+      "professor": "Dr. Amanda Taylor",
+      "subject": "English Literature",
+      "stars": 4,
+      "review": "Dr. Taylor's passion for literature is evident. Her feedback on essays is very helpful."
+    },
+    {
+      "professor": "Prof. James Nelson",
+      "subject": "Physics",
+      "stars": 3,
+      "review": "Prof. Nelson knows his stuff, but his lectures can be dry at times. Office hours are helpful."
+    },
+    {
+      "professor": "Dr. Maria Garcia",
+      "subject": "Sociology",
+      "stars": 5,
+      "review": "Dr. Garcia's classes are thought-provoking and interactive. She encourages great discussions."
+    },
+    {
+      "professor": "Prof. Thomas Wright",
+      "subject": "Economics",
+      "stars": 4,
+      "review": "Prof. Wright explains complex economic theories in an understandable way. His real-world examples are great."
+    },
+    {
+      "professor": "Dr. Rachel Kim",
+      "subject": "Art History",
+      "stars": 5,
+      "review": "Dr. Kim's lectures are like virtual museum tours. Her enthusiasm for art is infectious."
+    },
+    {
+      "professor": "Prof. Daniel Green",
+      "subject": "Environmental Science",
+      "stars": 3,
+      "review": "Prof. Green's field trips are informative, but his lectures can be a bit disorganized."
+    },
+    {
+      "professor": "Dr. Olivia Parker",
+      "subject": "Political Science",
+      "stars": 4,
+      "review": "Dr. Parker facilitates great debates in class. Her assignments encourage critical thinking."
+    },
+    {
+      "professor": "Prof. Andrew Scott",
+      "subject": "Music Theory",
+      "stars": 2,
+      "review": "Prof. Scott seems knowledgeable, but his teaching methods are confusing for beginners."
+    },
+    {
+      "professor": "Dr. Jennifer Adams",
+      "subject": "Anthropology",
+      "stars": 5,
+      "review": "Dr. Adams brings anthropology to life with her field experience. Her classes are always engaging."
+    },
+    {
+      "professor": "Prof. Christopher Lee",
+      "subject": "Philosophy",
+      "stars": 4,
+      "review": "Prof. Lee challenges students to think deeply. His Socratic method can be intimidating but effective."
+    },
+    {
+      "professor": "Dr. Elizabeth White",
+      "subject": "Neuroscience",
+      "stars": 3,
+      "review": "Dr. White's research is cutting-edge, but her lectures can be hard to follow sometimes."
+    },
+    {
+      "professor": "Prof. Kevin Turner",
+      "subject": "Marketing",
+      "stars": 5,
+      "review": "Prof. Turner's real-world marketing experience adds tremendous value to his classes."
+    },
+    {
+      "professor": "Dr. Sophia Rodriguez",
+      "subject": "Linguistics",
+      "stars": 4,
+      "review": "Dr. Rodriguez makes language study fascinating. Her assignments are creative and fun."
+    },
+    {
+      "professor": "Prof. William Chang",
+      "subject": "Statistics",
+      "stars": 3,
+      "review": "Prof. Chang is very knowledgeable, but his pacing can be too fast for some students."
+    }
+  ]
+}
