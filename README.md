@@ -56,7 +56,7 @@ questions, or summarize the content of the reviews in the form of a text chat wi
 
 2. Load your innitial data as a json file:
     - refer to [the example file](reviews.json.example) for the format
-3. Run each snippet in the [load](load.ipynd) file:
+3. Run each snippet in the [load](load.ipynb) file:
     - Verify that everything was loaded correctly using the pinecone dashboard
 4. Run a local test on the development server by:
     - Starting the development server:
