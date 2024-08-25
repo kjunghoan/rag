@@ -45,10 +45,9 @@ const Home: React.FC = () => {
 
   return (
     <div className="w-screen h-screen p-5 flex flex-col justify-center items-center">
-      <h1>Home</h1>
       <div
         id="chat"
-        className="flex flex-col w-full max-w-[31.5rem] h-[44rem] max-h-full border border-black p-2 space-y-3 rounded-lg mx-auto"
+        className="flex flex-col w-full max-w-[31.5rem] h-[44rem] max-h-full border-2 border-black p-2 space-y-3 rounded-lg mx-auto"
       >
         <div
           id="messageQueue"
